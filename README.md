@@ -19,10 +19,10 @@ while success() === false;
 
 
 <div id="badges">
-<a href="www.linkedin.com/in/tomas-demo">
+<a href="https://www.linkedin.com/in/tomas-demo/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:tomas.demobio@gmail.com">
+<a href="mailto:tomas.demobio@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
 </a>
 </div>
