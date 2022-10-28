@@ -7,7 +7,7 @@ if success() === true;
 while success() === false;
   learn()
   tryAgain()
-  be_amaizing()
+  have_fun()
   
   ```
 ---
@@ -32,7 +32,7 @@ while success() === false;
 <div align="left">
 My passion for business led me to get involved in the IT world as a developer. I understood there that every company has a common denominator: people.
 So I decided to train as a coach to improve my leadership, teamwork and communication skills.
-  Here I leave you my projects, I hope they serve to inspire you and take new ideas. If you have any questions, you can contact us by any of the means above.
+  Here I leave you my projects, I hope they serve to inspire you and take new ideas. If you have any questions, you can contact me by any of the means above.
 <br>
 </div>
 
