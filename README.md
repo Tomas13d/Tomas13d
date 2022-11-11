@@ -89,9 +89,8 @@ Coaching || Leadership || Public Speaking || Communication || Active Listening |
 
     
 <h3>I Move a few Months to Gitlab</h3>
-[![Whats-App-Image-2022-11-11-at-17-34-03.jpg](https://i.postimg.cc/qMwFkcLb/Whats-App-Image-2022-11-11-at-17-34-03.jpg)](https://postimg.cc/crKhhnPw)
-
 ---
+[![Whats-App-Image-2022-11-11-at-17-34-03.jpg](https://i.postimg.cc/qMwFkcLb/Whats-App-Image-2022-11-11-at-17-34-03.jpg)](https://postimg.cc/crKhhnPw)
     
     
    
