@@ -1,19 +1,8 @@
 
 <div align="center">
-    <img src="https://media.giphy.com/media/YKFR0dauxYEzJA8J6U/giphy-downsized-large.gif" width="400"/>
+    <img src="https://media.giphy.com/media/YKFR0dauxYEzJA8J6U/giphy-downsized-large.gif" width="300"/>
     <h1 aling="center">🧙 Hey there, I'm Tomas. Welcome to my repository!🧙</h1>
 </div>
-```js
-
-if success() === true; 
-    celebrate()
-while success() === false;
-  learn()
-  tryAgain()
-  have_fun()
-  
-  ```
----
 <div align="center">
 
 
