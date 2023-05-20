@@ -1,5 +1,8 @@
-<h2>🧙 Hey there, I'm Tomas. Welcome to my repository!🧙</h2>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/YKFR0dauxYEzJA8J6U/giphy-downsized-large.gif" width="400"/>
+    <h1 aling="center">🧙 Hey there, I'm Tomas. Welcome to my repository!🧙</h1>
+</div>
 ```js
 
 if success() === true; 
