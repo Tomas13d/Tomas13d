@@ -30,8 +30,16 @@
     </div>
   </div>
 </div>
+---
+### 👨‍💻 About me: 
+- 🚗 I currently work in Clupp 🇲🇽 integrating IA to a WhatsApp Bot and OpenIA to a customer suport channel.
+- 💬 Ask me about **Javascript, React, Next and business development**
+- 🤓 I’m currently learning **Nextjs, Machine Learning and Business Development**
+- 🌐 Here is my [Portfolio](https://www.tomasdemo.com.ar/)
+- 📧 How to reach me **tomas.demobio@gmail.com**
 
-<h2>Languages, libraries and tools</h2>
+---
+### 🔨 Languages, libraries and tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
