@@ -63,10 +63,10 @@
 
  ---
  
- ### 📊 My Stats: 
+ ### 📊 My Stats (I worked a year in gitlab, I don't have those stats 😢): 
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tomas13d&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
     
     
