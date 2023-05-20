@@ -49,20 +49,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-
   </div>
 
-  <div align="center">
-    JavaScript || HTML5 || CSS3 || React || Node || Express || Sequelize ||
-    Redux || Mongodb || Sass
-  </div>
-
-  <h3>Other soft skills</h3>
-  <div>
-    Coaching || Leadership || Public Speaking || Communication || Active
-    Listening || Teamwork || Fast Learning
-  </div>
-  ---
 
   <h2>Projects</h2>
   <h3>🏠 D`Williams real state 🏠</h3>
