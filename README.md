@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-<div align="left">
+<div align="left" width="200">
   Here I leave you my projects, I hope they serve to inspire you and take new ideas. If you have any questions, you can contact me by any of the means below.
 <br>
 </div>
