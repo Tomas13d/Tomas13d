@@ -5,7 +5,10 @@
 </div>
 <div align="center">
 
-
+<div align="left">
+  Here I leave you my projects, I hope they serve to inspire you and take new ideas. If you have any questions, you can contact me by any of the means below.
+<br>
+</div>
 
 <div id="header" align="center">
 
@@ -21,12 +24,7 @@
 </div>
 
 
-<div align="left">
-My passion for business led me to get involved in the IT world as a developer. I understood there that every company has a common denominator: people.
-So I decided to train as a coach to improve my leadership, teamwork and communication skills.
-  Here I leave you my projects, I hope they serve to inspire you and take new ideas. If you have any questions, you can contact me by any of the means above.
-<br>
-</div>
+
 
 </div>
 
