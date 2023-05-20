@@ -30,7 +30,9 @@
     </div>
   </div>
 </div>
+
 ---
+
 ### 👨‍💻 About me: 
 - 🚗 I currently work in Clupp 🇲🇽 integrating IA to a WhatsApp Bot and OpenIA to a customer suport channel.
 - 💬 Ask me about **Javascript, React, Next and business development**
