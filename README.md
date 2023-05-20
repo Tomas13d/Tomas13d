@@ -61,38 +61,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   </div>
 
-
-  <h2>Projects</h2>
-  <h3>🏠 D`Williams real state 🏠</h3>
-  2022 || Complete Web Page design for an important real estate company in the
-  city of San Luis, Argentina. I did this project completely alone, both the
-  front-end and back-end. **GitHub link**:
-  https://github.com/Tomas13d/DWilliamsPHP
-
-  <h3>🏢🧑‍💼 HorneroApp Globant Company 👩‍💼🏢</h3>
-  2022 ||Together with a team of 5 people using agile Scrum methodology, we
-  develop a Mobile Web App for the company Globant. Allow users to make
-  reservations for meeting rooms and desks in the different offices of the
-  company. We use geolocation for office recommendations, reservations through a
-  calendar, administrator dashboards with relevant data and more. **GitHub
-  link**: https://github.com/Agustinsant/HorneroApp
-
-  <h3>🛒 Futurum Ecommerce 🛒</h3>
-  2022 || Together with a team of 5 people using agile Scrum methodology, We
-  developed an Ecommerce Web Page, oriented to education and online courses.
-  With the team, cover the basic needs of an ecommerce such as shopping cart,
-  order history, products by categories and more. **GitHub link**:
-  https://github.com/Tomas13d/Futurum-Ecommerce
-
-  <h3>🎞️ Loop movies 🎥</h3>
-  2022 || Web page of movies that constantly interacts with an API called The
-  Movie Data Base, where the information of the movies is required. This was one
-  of my first projects and I did it completely on my own, both front-end and
-  back-end. **GitHub link**: https://github.com/Tomas13d/Loop-TMDB
-
-  <h3>I Move a few Months to Gitlab</h3>
-  ---
-  [![Whats-App-Image-2022-11-11-at-17-34-03.jpg](https://i.postimg.cc/qMwFkcLb/Whats-App-Image-2022-11-11-at-17-34-03.jpg)](https://postimg.cc/crKhhnPw)
+ ---
+ 
+ ### 📊 My Stats: 
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Tomas13d)](https://git.io/streak-stats)
 
 
     
