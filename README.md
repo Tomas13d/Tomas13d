@@ -32,7 +32,7 @@
 </div>
 
 <h2>Languages, libraries and tools</h2>
-<div align="center">
+<div align="left">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     title="JavaScript"
