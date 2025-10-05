@@ -34,10 +34,10 @@
 ---
 
 ### 👨‍💻 About me: 
-- 🚗 I currently work in Clupp 🇲🇽 integrating IA to a WhatsApp Bot and OpenIA to a customer suport channel.
-- 💬 Ask me about **Javascript, React, Next and business development**
-- 🤓 I’m currently learning **Nextjs, Machine Learning and Business Development**
-- 🌐 Here is my [Portfolio](https://www.tomasdemo.com.ar/)
+- 🚗 I currently work in Mindfactory as Tech Lead, learning about Hexagonal Architecture and DDD. Integrating LLMs and creating worflows in n8n.
+- 💬 Ask me about **React, Next, NodeJs, Docker and LLMs Integrations**
+- 🤓 I’m currently learning **Hexagonal Arquitecture, DDD, CI/CD**
+- 🌐 Here is the proyects i work on [Portfolio](https://portfolio-tomas-demo.web.app/)
 - 📧 How to reach me **tomas.demobio@gmail.com**
 
 ---
@@ -63,7 +63,7 @@
 
  ---
  
- ### 📊 My Stats (I worked a year in gitlab, I don't have those stats 😢): 
+ ### 📊 My Stats: 
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tomas13d&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
