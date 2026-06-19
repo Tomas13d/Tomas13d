@@ -1,76 +1,76 @@
 <div align="center">
-  <img
-    src="https://media.giphy.com/media/YKFR0dauxYEzJA8J6U/giphy-downsized-large.gif"
-    width="300"
-  />
-  <h1 aling="center">🧙 Hey there, I'm Tomas. Welcome to my repository!🧙</h1>
-</div>
 
-<div align="center">
-  <div align="center">
-    Here I leave you my projects, I hope they serve to inspire you and take new
-    ideas. If you have any questions, you can contact me by any of the means
-    below.
-    <br />
-  </div>
-  <div id="header" align="center">
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/tomas-demo/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="LinkedIn Badge"
-        />
-      </a>
-      <a href="mailto:tomas.demobio@gmail.com" target="_blank">
-        <img
-          src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge"
-          alt="Email Badge"
-        />
-      </a>
-    </div>
-  </div>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4A90D9&center=true&vCenter=true&width=540&lines=I+build+AI+agents+from+scratch.;I+build+distributed+systems.;I+build+LLM-powered+products.;I+build+SaaS+that+scales." alt="Typing SVG" /></a>
+
+<h2>Tomas Demo</h2>
+<p><b>AI & Software Engineer · Founder @ DWG Consulting</b></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/tomas-demo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tomas.demobio@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-tomas-demo.web.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About me: 
-- 🚗 I currently work in Mindfactory as Tech Lead, learning about Hexagonal Architecture and DDD. Integrating LLMs and creating worflows in n8n.
-- 💬 Ask me about **React, Next, NodeJs, Docker and LLMs Integrations**
-- 🤓 I’m currently learning **Hexagonal Arquitecture, DDD, CI/CD**
-- 🌐 Here is the proyects i work on [Portfolio](https://portfolio-tomas-demo.web.app/)
-- 📧 How to reach me **tomas.demobio@gmail.com**
+### 🧠 About me
+
+| | |
+|:---:|:---|
+| 🏗️ | **DWG Consulting** — Founder & Tech Lead · 60+ production projects across LATAM & the US |
+| 🤖 | **Clear Tech / LG Ads** — Architecting a global-scale agentic platform |
+| 🚀 | **Clupp · YC W22** — Founding AI Engineer · Built the first WhatsApp AI agent in 2022, before orchestration frameworks existed |
+| ⚙️ | I work on distributed systems, multi-agent orchestration, RAG pipelines, and LLM-powered automation |
 
 ---
-### 🔨 Languages, libraries and tools
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.j" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40"bheight="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL" alt="PSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  </div>
 
- ---
- 
- ### 📊 My Stats: 
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
-    
-   
-  
-  
+### 📅 Experience
 
+```
+2025 – now    AI Engineer · Agentic Platform      Clear Tech / LG Ads
+2023 – now    Founder & Tech Lead                 DWG Consulting
+2023 – 2025   Founding AI Engineer                Clupp · YC W22
+2025          Tech Lead & AI Engineer             Mindfactory
+2022 – 2023   Software Engineer                   Netglobal Solutions
+```
 
+---
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **Agentiv Platform** | Proprietary LLM orchestration library — full production agent in ~2 hours | Agents · RAG · MCP · guardrails |
+| **ClubOS** | Multi-tenant SaaS for sports club management | GCP · NestJS · Expo · RLS |
+| **AssureX** | Omnichannel insurance CRM with voice AI + LLM automation | Voice AI · LLMs · Twilio |
+| **WhatsApp AI Agent** | First agent at Clupp (2022) — drove revenue comparable to the entire referral program | YC W22 · OpenAI · WhatsApp |
+
+---
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tomas13d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas13d&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas13d&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,php"/>
+</p>
